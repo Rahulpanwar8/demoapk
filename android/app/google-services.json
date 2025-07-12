@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224310115598",
+    "project_id": "demoapk-920d0",
+    "storage_bucket": "demoapk-920d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224310115598:android:eaa0fd8dc07abfc6776b5f",
+        "android_client_info": {
+          "package_name": "com.example.demoapk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFYAo99Zaw38YZ1x2V4bsaiW43idlwr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
